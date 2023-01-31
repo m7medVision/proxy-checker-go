@@ -1,5 +1,5 @@
 # Proxy Checker
-This is a Go implementation of a proxy checker. It takes a list of proxies from a file and tests them against a target website to check if they are valid.
+![Screenshot](./screenshot.png){: .center-image }
 
 ## Download Go
 To run this code, you need to have Go installed on your machine. You can download it from the official website: https://golang.org/dl/
