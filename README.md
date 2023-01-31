@@ -1,5 +1,5 @@
 # Proxy Checker
-![Screenshot](./Screenshot.png){: .center-image }
+![Screenshot](./Screenshot.png)
 
 ## Download Go
 To run this code, you need to have Go installed on your machine. You can download it from the official website: https://golang.org/dl/
